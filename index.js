@@ -1,1 +1,2 @@
-console.blub("Nothing");
+"use strict";
+console.log("Nothing");

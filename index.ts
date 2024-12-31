@@ -1,1 +1,1 @@
-console.blub("Nothing");
+console.log("Nothing");
