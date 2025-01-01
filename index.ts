@@ -1,2 +1,2 @@
 console.log("Nothing");
-let let wat;
+let let, wat;
